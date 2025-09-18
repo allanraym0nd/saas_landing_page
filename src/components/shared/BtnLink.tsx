@@ -10,8 +10,5 @@ export const BtnLink = ({href, text, className=""}: BtnLinkProps) => {
          border dark:bg-violet-600 cursor-pointer`} >
             <span className="relative z-10 text-white">{text}</span>
         </a>
-
-
-
     )
-}
+} 
